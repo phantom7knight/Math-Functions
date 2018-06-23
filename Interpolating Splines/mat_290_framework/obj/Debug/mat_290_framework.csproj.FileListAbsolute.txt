@@ -59,3 +59,12 @@ D:\DIGIPEN\Semester's\2nd sem\Math\Project 4\framework_project\framework\mat_290
 D:\DIGIPEN\Semester's\2nd sem\Math\Project 4\framework_project\framework\mat_290_framework\obj\Debug\mat_290_framework.csproj.CoreCompileInputs.cache
 D:\DIGIPEN\Semester's\2nd sem\Math\Project 4\framework_project\framework\mat_290_framework\obj\Debug\mat_290_framework.exe
 D:\DIGIPEN\Semester's\2nd sem\Math\Project 4\framework_project\framework\mat_290_framework\obj\Debug\mat_290_framework.pdb
+D:\GIT Temp\Math-Functions-\Interpolating Splines\mat_290_framework\bin\Debug\mat_290_framework.exe
+D:\GIT Temp\Math-Functions-\Interpolating Splines\mat_290_framework\bin\Debug\mat_290_framework.pdb
+D:\GIT Temp\Math-Functions-\Interpolating Splines\mat_290_framework\obj\Debug\mat_290_framework.csprojResolveAssemblyReference.cache
+D:\GIT Temp\Math-Functions-\Interpolating Splines\mat_290_framework\obj\Debug\mat_290_framework.MAT290.resources
+D:\GIT Temp\Math-Functions-\Interpolating Splines\mat_290_framework\obj\Debug\mat_290_framework.Properties.Resources.resources
+D:\GIT Temp\Math-Functions-\Interpolating Splines\mat_290_framework\obj\Debug\mat_290_framework.csproj.GenerateResource.cache
+D:\GIT Temp\Math-Functions-\Interpolating Splines\mat_290_framework\obj\Debug\mat_290_framework.csproj.CoreCompileInputs.cache
+D:\GIT Temp\Math-Functions-\Interpolating Splines\mat_290_framework\obj\Debug\mat_290_framework.exe
+D:\GIT Temp\Math-Functions-\Interpolating Splines\mat_290_framework\obj\Debug\mat_290_framework.pdb
